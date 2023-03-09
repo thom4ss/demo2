@@ -1,2 +1,6 @@
 print("Hello World!")
 print("Belajar Python dari Nol")
+print("Hello World!")
+print("Belajar Python dari Nol")
+print("Hello World!")
+print("Belajar Python dari Nol")
